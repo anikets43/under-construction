@@ -23,7 +23,7 @@ This repository contains a **reusable "Under Construction" page template** for L
    - Use it as a temporary landing page until the full website is live
 
 ## 🌐 Live Demo
-You can check out a live version of this template [here](https://liveupx.com/under-construction).
+You can check out a live version of this template [here]([https://liveupx.com/under-construction](https://under-construction-web-template.pages.dev)).
 
 ## 🛠 Customization
 You can easily customize the template by:
