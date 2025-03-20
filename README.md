@@ -1,4 +1,4 @@
-# Under Construction Page Template
+# Under Construction Page Template - Free To Use
 
 This repository contains a **reusable "Under Construction" page template** for Liveupx projects. This template can be used across multiple projects to inform visitors that a website is currently under development.
 
